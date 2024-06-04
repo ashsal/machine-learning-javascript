@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^4.19.0"
+    "@tensorflow/tfjs": "^4.19.0",
+    "@tensorflow/tfjs-node": "^4.20.0",
+    "axios": "^1.7.2",
+    "mysql2": "^3.10.0"
   }
 }
